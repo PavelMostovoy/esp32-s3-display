@@ -30,6 +30,7 @@ mipidsi = "0.7.1"
 display-interface-parallel-gpio = "0.6.0"
 embedded-hal = "0.2.7"
 embedded-graphics = "0.8.1"
+rand = "0.8.5"
 
 
 [build-dependencies]
